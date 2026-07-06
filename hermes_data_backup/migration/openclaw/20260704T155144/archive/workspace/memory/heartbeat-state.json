@@ -1,0 +1,25 @@
+{
+  "lastChecks": {
+    "email": null,
+    "calendar": null,
+    "weather": "2026-07-04T08:20:00+03:00"
+  },
+  "notes": "gog CLI not configured - Google OAuth expired (invalid_grant) for both sabq4u@gmail.com and so7ba.ai@gmail.com.",
+  "lastRun": "2026-07-04T08:20:00+03:00",
+  "issues": [
+    "Google OAuth expired - email/calendar checks unavailable (invalid_grant)",
+    "Pending: sabq.org SEO - submit sitemaps in GSC + daily URL Inspection"
+  ],
+  "weather": {
+    "location": "Riyadh, Saudi Arabia",
+    "current_temp_C": 29,
+    "feels_like_C": 27,
+    "condition": "Sunny",
+    "humidity_pct": 12,
+    "wind_kmph": 8,
+    "visibility_km": 7,
+    "max_temp_C": 43,
+    "uv_index": 11,
+    "checked_at": "2026-07-04T08:20:00+03:00"
+  }
+}

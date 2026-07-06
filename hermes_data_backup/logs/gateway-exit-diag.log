@@ -1,0 +1,13 @@
+{"ts": "2026-07-04T12:50:46.876300+00:00", "tag": "gateway.start", "pid": 1875, "python": "3.11.15", "platform": "darwin", "replace": true, "argv": ["/Users/alialhazmi/.hermes/hermes-agent/hermes_cli/main.py", "gateway", "run", "--replace"], "stdin_is_tty": false, "absorb_windows_console_controls": false}
+{"ts": "2026-07-04T12:54:27.245651+00:00", "tag": "asyncio.run.returned", "pid": 1875, "python": "3.11.15", "platform": "darwin", "success": false}
+{"ts": "2026-07-04T12:54:27.246063+00:00", "tag": "gateway.exit_nonzero", "pid": 1875, "python": "3.11.15", "platform": "darwin"}
+{"ts": "2026-07-04T12:54:27.247257+00:00", "tag": "atexit.hook", "pid": 1875, "python": "3.11.15", "platform": "darwin", "sys_exc": "(None, None, None)"}
+{"ts": "2026-07-04T12:54:29.249432+00:00", "tag": "gateway.start", "pid": 5953, "python": "3.11.15", "platform": "darwin", "replace": true, "argv": ["/Users/alialhazmi/.hermes/hermes-agent/hermes_cli/main.py", "gateway", "run", "--replace"], "stdin_is_tty": false, "absorb_windows_console_controls": false}
+{"ts": "2026-07-04T13:01:02.149323+00:00", "tag": "asyncio.run.returned", "pid": 5953, "python": "3.11.15", "platform": "darwin", "success": false}
+{"ts": "2026-07-04T13:01:02.149975+00:00", "tag": "gateway.exit_nonzero", "pid": 5953, "python": "3.11.15", "platform": "darwin"}
+{"ts": "2026-07-04T13:01:02.151753+00:00", "tag": "atexit.hook", "pid": 5953, "python": "3.11.15", "platform": "darwin", "sys_exc": "(None, None, None)"}
+{"ts": "2026-07-04T13:01:02.764404+00:00", "tag": "gateway.start", "pid": 12482, "python": "3.11.15", "platform": "darwin", "replace": true, "argv": ["/Users/alialhazmi/.hermes/hermes-agent/hermes_cli/main.py", "gateway", "run", "--replace"], "stdin_is_tty": false, "absorb_windows_console_controls": false}
+{"ts": "2026-07-06T05:05:47.711905+00:00", "tag": "asyncio.run.returned", "pid": 12482, "python": "3.11.15", "platform": "darwin", "success": false}
+{"ts": "2026-07-06T05:05:47.712474+00:00", "tag": "gateway.exit_nonzero", "pid": 12482, "python": "3.11.15", "platform": "darwin"}
+{"ts": "2026-07-06T05:05:48.340273+00:00", "tag": "atexit.hook", "pid": 12482, "python": "3.11.15", "platform": "darwin", "sys_exc": "(None, None, None)"}
+{"ts": "2026-07-06T05:08:31.319188+00:00", "tag": "gateway.start", "pid": 1296, "python": "3.11.15", "platform": "darwin", "replace": true, "argv": ["/Users/alialhazmi/.hermes/hermes-agent/hermes_cli/main.py", "gateway", "run", "--replace"], "stdin_is_tty": false, "absorb_windows_console_controls": false}

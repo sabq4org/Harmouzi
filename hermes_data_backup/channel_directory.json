@@ -1,0 +1,95 @@
+{
+  "updated_at": "2026-07-06T18:18:11.094359",
+  "platforms": {
+    "telegram": [
+      {
+        "id": "1079517049",
+        "name": "علي الحازمي",
+        "type": "dm",
+        "thread_id": null
+      },
+      {
+        "id": "-1003770844717",
+        "name": "صحبة وهرموزي",
+        "type": "group",
+        "thread_id": null
+      },
+      {
+        "id": "-1003770844717:5617",
+        "name": "صحبة وزوز / topic 5617",
+        "type": "group",
+        "thread_id": "5617"
+      },
+      {
+        "id": "-1003770844717:5641",
+        "name": "صحبة وزوز / topic 5641",
+        "type": "group",
+        "thread_id": "5641"
+      },
+      {
+        "id": "-1003770844717:5657",
+        "name": "صحبة وزوز / topic 5657",
+        "type": "group",
+        "thread_id": "5657"
+      },
+      {
+        "id": "-1003770844717:5690",
+        "name": "صحبة وهرموزي / topic 5690",
+        "type": "group",
+        "thread_id": "5690"
+      },
+      {
+        "id": "-1003770844717:5702",
+        "name": "صحبة وهرموزي / topic 5702",
+        "type": "group",
+        "thread_id": "5702"
+      },
+      {
+        "id": "-1003770844717:5717",
+        "name": "صحبة وهرموزي / topic 5717",
+        "type": "group",
+        "thread_id": "5717"
+      },
+      {
+        "id": "-1003770844717:5719",
+        "name": "صحبة وهرموزي / topic 5719",
+        "type": "group",
+        "thread_id": "5719"
+      },
+      {
+        "id": "-1003770844717:5756",
+        "name": "صحبة وهرموزي / topic 5756",
+        "type": "group",
+        "thread_id": "5756"
+      }
+    ],
+    "discord": [],
+    "whatsapp": [],
+    "whatsapp_cloud": [],
+    "slack": [],
+    "signal": [],
+    "mattermost": [],
+    "matrix": [],
+    "homeassistant": [],
+    "email": [],
+    "sms": [],
+    "dingtalk": [],
+    "msgraph_webhook": [],
+    "feishu": [],
+    "wecom": [],
+    "wecom_callback": [],
+    "weixin": [],
+    "bluebubbles": [],
+    "qqbot": [],
+    "yuanbao": [],
+    "relay": [],
+    "google_chat": [],
+    "irc": [],
+    "line": [],
+    "ntfy": [],
+    "photon": [],
+    "raft": [],
+    "simplex": [],
+    "teams": []
+  }
+}

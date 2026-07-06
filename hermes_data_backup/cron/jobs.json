@@ -1,0 +1,50 @@
+{
+  "jobs": [
+    {
+      "id": "4f440676c8ef",
+      "name": "\u0630\u0643\u0631 \u0623\u0628\u0648 \u0645\u062d\u0645\u062f \u0628\u062d\u0636\u0648\u0631 \u062d\u0641\u0644 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 \u0627\u0644\u0633\u0641\u0627\u0631\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629. \u0627\u0644",
+      "prompt": "\u0630\u0643\u0631 \u0623\u0628\u0648 \u0645\u062d\u0645\u062f \u0628\u062d\u0636\u0648\u0631 \u062d\u0641\u0644 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 \u0627\u0644\u0633\u0641\u0627\u0631\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629. \u0627\u0644\u062a\u0641\u0627\u0635\u064a\u0644: \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 \u0661\u0664 \u064a\u0648\u0644\u064a\u0648 \u0662\u0660\u0662\u0666\u0645\u060c \u0627\u0644\u0633\u0627\u0639\u0629 \u0667:\u0663\u0660\u0645 \u0641\u064a \u0642\u0635\u0631 \u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0628\u062d\u064a \u0627\u0644\u0633\u0641\u0627\u0631\u0627\u062a. \u0627\u0644\u0632\u064a: \u0631\u0633\u0645\u064a \u0623\u0648 \u0648\u0637\u0646\u064a.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "gemini",
+      "model_snapshot": "gemini-2.5-pro",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "once",
+        "run_at": "2026-07-14T17:30:00+03:00",
+        "display": "once at 2026-07-14 17:30"
+      },
+      "schedule_display": "once at 2026-07-14 17:30",
+      "repeat": {
+        "times": 1,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-07-05T10:36:43.743781+03:00",
+      "next_run_at": "2026-07-14T17:30:00+03:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "1079517049",
+        "chat_name": "\u0639\u0644\u064a \u0627\u0644\u062d\u0627\u0632\u0645\u064a",
+        "thread_id": null,
+        "user_id": "1079517049"
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    }
+  ],
+  "updated_at": "2026-07-05T10:36:43.768561+03:00"
+}

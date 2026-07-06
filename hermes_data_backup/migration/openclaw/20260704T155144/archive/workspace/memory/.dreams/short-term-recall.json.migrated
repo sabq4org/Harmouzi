@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-09T10:36:00.967Z",
+  "entries": {
+    "memory:memory/2026-05-01.md:1:41": {
+      "key": "memory:memory/2026-05-01.md:1:41",
+      "path": "memory/2026-05-01.md",
+      "startLine": 1,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "## مهام معلّقة - [ ] إصلاح القروب: إخراج البوت من \"صحبة وزوز\" وإعادة إضافته كأدمن عشان يبدأ يستقبل الرسائل ## معلومات مهمة محفوظة اليوم - قهوة أبو محمد: V60 ☕ - IDENTITY.md محدّث بالكامل - contacts.md يحتوي قائمة كاملة بالأرقام والكنى",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4326541781425476,
+      "maxScore": 0.4326541781425476,
+      "firstRecalledAt": "2026-05-01T20:35:54.310Z",
+      "lastRecalledAt": "2026-05-01T20:35:54.310Z",
+      "queryHashes": [
+        "84323e2e5119"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "identity.md",
+        "contacts.md",
+        "مهام",
+        "معلّقة",
+        "إصلاح",
+        "القروب",
+        "إخراج",
+        "البوت"
+      ]
+    },
+    "memory:memory/2026-05-01.md:88:112": {
+      "key": "memory:memory/2026-05-01.md:88:112",
+      "path": "memory/2026-05-01.md",
+      "startLine": 88,
+      "endLine": 112,
+      "source": "memory",
+      "snippet": "## ⚠️ واجهة صحيفة \"عاجل\" (Frontend) — درس مهم - حاولت تصميم واجهة الصحيفة، لكن النتيجة لم ترق لمستوى اللوحة - **الأخطاء:** 1. استخدمت خط Reem Kufi الديكوري (صححه أبو محمد — الصحف تستخدم خط واحد احترافي Tajawal) 2. الصور عبارة عن emojis و gradients صارخة بدل صور editorial واقعية 3. الهيدر بفلسفة SaaS بدل فلسفة صحفية - **الدرس:** أنا أجود في لوحات التحكم (بيانات وأرقام) أكثر من الواجهات التحريرية التي تحتاج حس صحفي حقيقي وصور واقعية - **رأي أبو محمد:** \"أنت جيد في لوحة التحكم، لكن الواجهات لا تستطيع\" - المسار (للمرجع): `~/.openclaw/workspace/projects/ajel-news/index.html` ## 📝 الدروس المستفادة اليوم 1. **عزل السياقات:** أفحص metadata قبل أي رد — من أين ولمن وفي أي قناة 2. **صراحة أبو م",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9430442184209823,
+      "maxScore": 0.47242832779884336,
+      "firstRecalledAt": "2026-05-01T22:00:27.084Z",
+      "lastRecalledAt": "2026-05-03T05:39:33.728Z",
+      "queryHashes": [
+        "8d6883172855",
+        "34198c9cef6e"
+      ],
+      "recallDays": [
+        "2026-05-02",
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "واجهة",
+        "صحيفة",
+        "عاجل",
+        "frontend",
+        "درس",
+        "مهم",
+        "حاولت",
+        "تصميم"
+      ]
+    },
+    "memory:memory/2026-05-01.md:60:93": {
+      "key": "memory:memory/2026-05-01.md:60:93",
+      "path": "memory/2026-05-01.md",
+      "startLine": 60,
+      "endLine": 93,
+      "source": "memory",
+      "snippet": "- **Ollama**: تفعيل + إضافة نماذج محلية (llama3, gemma4, gemma4:26b) في `agents.defaults.models` - ملاحظة: مفتاح Ollama Cloud اللي أعطاني أبو محمد عنده مشكلة TLS handshake — المحلي يعمل - سلطان المالكي (أبو سلمان) أضيف للذاكرة — رئيس تحرير عاجل، عنده Agent اسمه زالتان ## 🎨 مشروع \"يومي\" — مواعيد بطعم الهدوء - صفحة تسجيل مواعيد بتصميم مبتكر - المفهوم: اليوم كــ \"horizon\" (أفق طبيعي) بدل الجدول التقليدي - الألوان: pastel ناعمة (خوخي، خزامى، نعناعي) - التقنيات: Glassmorphism + ambient blobs + grain texture - المسارات: - `~/.openclaw/workspace/projects/yawmi/index.html` - `~/yawmi/index.html` (نسخة في Home) - **تقييم أبو محمد:** \"جميل جداً\" ✅ ## 🍷 لوحة تحكم \"عاجل\" (Dashboard) - تصميم لوحة",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.6052133199362348,
+      "maxScore": 0.6920282837538314,
+      "firstRecalledAt": "2026-05-01T22:00:27.084Z",
+      "lastRecalledAt": "2026-05-05T03:49:56.035Z",
+      "queryHashes": [
+        "8d6883172855",
+        "a5a28a8d5114",
+        "edfde06749b2"
+      ],
+      "recallDays": [
+        "2026-05-02",
+        "2026-05-04",
+        "2026-05-05"
+      ],
+      "conceptTags": [
+        "agents.defaults.models",
+        "yawmi/index.html",
+        "ollama",
+        "تفعيل",
+        "إضافة",
+        "نماذج",
+        "محلية",
+        "llama3"
+      ]
+    },
+    "memory:memory/2026-05-02.md:71:122": {
+      "key": "memory:memory/2026-05-02.md:71:122",
+      "path": "memory/2026-05-02.md",
+      "startLine": 71,
+      "endLine": 122,
+      "source": "memory",
+      "snippet": "- اسم الموظف + التاريخ أسفل العنوان - حذف عمود تاريخ النشر 2. **نظام الصلاحيات والأدوار (RBAC)** - 5 أدوار: مسؤول النظام، المشرف، مدير المحتوى، مراسل، كاتب رأي - 50+ صلاحية مفصّلة - لوحة Permission Matrix للإدارة 3. **Code Audit شامل (Phase 1+2)** - فحص الكود وإزالة الزوائد بأمان - تقرير AUDIT-REPORT.md 4. **إعادة تصميم لوحة التحكم (Premium SaaS)** - نظام ألوان محسّن - سايد بار أبيض أنيق - Micro-interactions 5. **الوضع الليلي (Dark Mode)** - للواجهة العامة + تحسين لوحة التحكم - نظام 5 طبقات + Anti-flash script 6. **نظام مقالات الرأي** - جدول authors + opinion_articles - صفحة قسم + صفحة كاتب رأي - 8 بطاقات 4 أعمدة في الرئيسية 7. **منسوبو عاجل",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.4423209577798843,
+      "maxScore": 0.4812178939580917,
+      "firstRecalledAt": "2026-05-03T06:10:32.310Z",
+      "lastRecalledAt": "2026-05-03T15:56:06.652Z",
+      "queryHashes": [
+        "7ea101412f83",
+        "f21c863b3697"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "audit-report.md",
+        "micro-interactions",
+        "anti-flash",
+        "opinion-articles",
+        "اسم",
+        "الموظف",
+        "التاريخ",
+        "أسفل"
+      ]
+    },
+    "memory:memory/2026-05-02.md:117:159": {
+      "key": "memory:memory/2026-05-02.md:117:159",
+      "path": "memory/2026-05-02.md",
+      "startLine": 117,
+      "endLine": 159,
+      "source": "memory",
+      "snippet": "- **الخطأ الكلاسيكي:** أبو محمد أرسل \"أنا سلطان\" من تيليجرامه → صدّقت النص وتجاهلت chat_id - **القاعدة الحديدية:** chat_id + channel = مصدر الحقيقة الوحيد - **`[[reply_to_current]]` لا يعمل عبر القنوات** — يجب استخدام `message` tool صراحة - **الإعداد الحالي:** `allowAcrossProviders: true` مع marker = حل دائم بدون فتح/قفل ### ربط الأصدقاء بالـ chat_id: - أبو محمد تيليجرام: `chat_id: 1079517049` → دائماً أبو محمد - أبو محمد واتساب: `+966564255999` - سلطان واتساب: `+966533998899` - فاطمة واتساب: `+966509938565` --- ## 📄 وثيقة PDF — شركة ترند الرقمية ### آلية العمل \"المسارات الثلاثة\": - **7 صفحات** احترافية بخط Tajawal + Cairo (محلي) - **الغلاف** بخلفية زرقاء فخمة - **المسارات الثلاثة:** ال",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.46178637444972986,
+      "maxScore": 0.46178637444972986,
+      "firstRecalledAt": "2026-05-03T06:10:32.310Z",
+      "lastRecalledAt": "2026-05-03T06:10:32.310Z",
+      "queryHashes": [
+        "7ea101412f83"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "chat-id",
+        "reply-to-current",
+        "فتح/قفل",
+        "الخطأ",
+        "الكلاسيكي",
+        "أبو",
+        "محمد",
+        "أرسل"
+      ]
+    },
+    "memory:memory/2026-05-01.md:1:38": {
+      "key": "memory:memory/2026-05-01.md:1:38",
+      "path": "memory/2026-05-01.md",
+      "startLine": 1,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "# يوم 2026-05-01 — أول يوم كامل مع أبو محمد ## ما تم إنجازه اليوم ### ✅ إعداد النظام - تفعيل واتساب صُحبة (+966573846560) - ربط تيليجرام (البوت: @so7bai_bot) - ضبط النموذج الافتراضي: claude-sonnet-4-6 - حفظ قائمة جهات الاتصال في `memory/contacts.md` ### ✅ درس عزل السياقات (مهم جداً) - **المشكلة:** فاطمة راسلت على واتساب أثناء محادثتنا على تيليجرام، فخلطت بين السياقين وأرسلت رداً خاطئاً - **الحل:** أعدت `tools.message.crossContext.allowAcrossProviders` إلى false - **القاعدة:** كل قناة + مرسل = سياق مستقل بتمامه - **موثّق في:** SOUL.md + MEMORY.md ### ✅ فاطمة عبدالفتاح (أم حازم) — +966509938565 - طلبت 3 أسئلة لورشة عمل عن بطاقة الملاحظة الصفية للمعلمين - أرسلت لها الأسئلة مع اعتذار عن التأ",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4652785688638687,
+      "maxScore": 0.4652785688638687,
+      "firstRecalledAt": "2026-05-05T03:49:56.035Z",
+      "lastRecalledAt": "2026-05-05T03:49:56.035Z",
+      "queryHashes": [
+        "edfde06749b2"
+      ],
+      "recallDays": [
+        "2026-05-05"
+      ],
+      "conceptTags": [
+        "so7bai-bot",
+        "claude-sonnet-4-6",
+        "memory/contacts.md",
+        "soul.md",
+        "memory.md",
+        "يوم",
+        "أول",
+        "كامل"
+      ]
+    },
+    "memory:memory/2026-05-01.md:31:66": {
+      "key": "memory:memory/2026-05-01.md:31:66",
+      "path": "memory/2026-05-01.md",
+      "startLine": 31,
+      "endLine": 66,
+      "source": "memory",
+      "snippet": "t اسمه زالتان ## 🎨 مشروع \"يومي\" — مواعيد بطعم الهدوء - صفحة تسجيل مواعيد بتصميم مبتكر - المفهوم: اليوم كــ \"horizon\" (أفق طبيعي) بدل الجدول التقليدي",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.48352514803409574,
+      "maxScore": 0.48352514803409574,
+      "firstRecalledAt": "2026-05-05T16:48:24.351Z",
+      "lastRecalledAt": "2026-05-05T16:48:24.351Z",
+      "queryHashes": [
+        "c55f09fed3fc"
+      ],
+      "recallDays": [
+        "2026-05-05"
+      ],
+      "conceptTags": [
+        "اسمه",
+        "زالتان",
+        "مشروع",
+        "يومي",
+        "مواعيد",
+        "بطعم",
+        "الهدوء",
+        "صفحة"
+      ]
+    },
+    "memory:memory/2026-05-05.md:1:46": {
+      "key": "memory:memory/2026-05-05.md:1:46",
+      "path": "memory/2026-05-05.md",
+      "startLine": 1,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "# 2026-05-05 — يوم سطر ## 🎯 الإنجاز الرئيسي تنفيذ MVP كامل لمشروع **سطر — الصحيفة الذكية المختصرة**. ### الإحصائيات: - **المسار:** `~/Satr` - **GitHub:** https://github.com/sabq4org/satr ✅ مرفوع - **DB:** Neon (cloud) — متصل ومبذور بـ 10 أخبار - **Stack:** Next.js 16 + React 19 + Drizzle + Tailwind v4 - **حجم الكود:** 1247 سطر / 15 ملف - **زمن التنفيذ:** ~ساعتين ### الميزات المنفذة: 1. صفحة الموجز اليومي (Hero + featured + grid) 2. 7 صفحات أقسام 3. بطاقة خبر بـ 3 أسطر بنسق بصري احترافي 4. AI Deepen inline (وضّح أكثر) 5. لوحة تحرير `/admin` 6. محرر `/admin/new` بعدّاد كلمات وتحقق فوري لقاعدة الأسطر الثلاثة 7. AI Mock يشتغل أوفلاين كامل (`USE_AI_MOCK=true`) ### الميزة الفنية اللطيفة: طبق",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.0960548132658003,
+      "maxScore": 0.5480274066329002,
+      "firstRecalledAt": "2026-05-06T08:49:38.930Z",
+      "lastRecalledAt": "2026-05-09T10:36:00.967Z",
+      "queryHashes": [
+        "fc9cfdd0235f"
+      ],
+      "recallDays": [
+        "2026-05-06",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "github.com/sabq4org/satr",
+        "next.js",
+        "admin/new",
+        "use-ai-mock",
+        "يوم",
+        "سطر",
+        "الإنجاز",
+        "الرئيسي"
+      ]
+    }
+  }
+}
